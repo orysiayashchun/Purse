@@ -11,6 +11,8 @@ namespace Purse
         static void Main(string[] args)
         {
             CreditCart creditCart=new CreditCart();
+            Money money= new Money();
+            BusinessCard businessCard = new BusinessCard();
         }
     }
 }
