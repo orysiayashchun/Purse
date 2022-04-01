@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Purse 
+namespace Purse
 {
-    class Program
+    class CreditCart
     {
-        static void Main(string[] args)
+        public CreditCart()
         {
-            CreditCart creditCart=new CreditCart();
+
         }
     }
 }
