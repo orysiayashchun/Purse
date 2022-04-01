@@ -10,6 +10,7 @@ namespace Purse
     {
         static void Main(string[] args)
         {
+            Money money= new Money();
             BusinessCard businessCard = new BusinessCard();
         }
     }

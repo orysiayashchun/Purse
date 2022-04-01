@@ -8,5 +8,9 @@ namespace Purse
 {
     class Money
     {
+        public Money()
+        {
+
+        }
     }
 }
