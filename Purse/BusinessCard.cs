@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace Purse
 {
-    class Program
+    class BusinessCard
     {
-        static void Main(string[] args)
+        public BusinessCard()
         {
-            BusinessCard businessCard = new BusinessCard();
+
         }
     }
 }
